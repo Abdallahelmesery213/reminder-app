@@ -1,0 +1,4 @@
+1- action types 
+2- action creators [function come back action , must has type]
+3- Reducers [function come back data of state]
+4- dispatch (connect action with reducer as in line 66 in App.js)
